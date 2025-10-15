@@ -31,8 +31,6 @@ yarn-error.log*
 
 # local env files
 # .env
-.env.development
-.env.local
 .env.development.local
 .env.test.local
 .env.production.local
@@ -64,3 +62,4 @@ packages/prisma-client/src/__generated__
 
 .temp
 *.timestamp-*.mjs
+config.bat
